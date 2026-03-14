@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Rajveer Singh
 
-🎓 Computer Science & Engineering student passionate about building intelligent systems and solving real-world problems through technology.
+🎓 Computer Science & Engineering student passionate about building intelligent systems and solving real world problems through technology.
 
-I enjoy working at the intersection of **Machine Learning, backend development, and network analysis**, where data, systems, and logic come together. Currently I'm developing **Packet Hawk**, a network packet analysis tool, while also building ML-driven solutions that transform raw data into meaningful insights.
+I enjoy working at the intersection of **Machine Learning, backend development, and network analysis**, where data, systems, and logic come together. Currently, I am developing **Packet Hawk**, a network packet analysis tool, while also building ML-driven solutions that transform raw data into meaningful insights.
 
-I strongly believe in **continuous learning, strong problem solving, and writing clean scalable code**. My goal is to deepen my expertise in **Machine Learning, system design, and high-performance backend systems** while contributing to impactful projects and open source communities.
+I strongly believe in **continuous learning, strong problem solving, and writing clean scalable code**. My goal is to deepen my expertise in **Machine Learning, system design, and high performance backend systems** while contributing to impactful projects and open source communities.
 
 ---
 
@@ -16,11 +16,11 @@ I strongly believe in **continuous learning, strong problem solving, and writing
 
 🤝 Looking for help with **Advanced ML optimization, deeper packet inspection, and scalable backend systems**.
 
-🌱 Currently learning **Machine Learning (Scikit-learn, Pandas, NumPy), DSA, and backend development using Flask & Django**.
+🌱 Currently learning **Machine Learning, DSA, and backend development using Flask and Django**.
 
 💬 Ask me about **Python, ML workflows, DSA problem solving, backend systems, and network packet analysis**.
 
-⚡ I enjoy turning **raw data and network traffic into meaningful insights through code.**
+⚡ I enjoy turning **raw data and network traffic into meaningful insights through code**.
 
 ---
 
@@ -38,7 +38,7 @@ I strongly believe in **continuous learning, strong problem solving, and writing
 Network packet analysis tool designed to study **traffic behavior, packet structures, and monitoring concepts**.
 
 ### 🔹 Expense Tracker
-Full-stack financial management platform built with **Flask, Django, SQLite, MySQL, HTML, and CSS**.
+Full stack financial management platform built with **Flask, Django, SQLite, MySQL, HTML, and CSS**.
 
 ### 🔹 Village Era Products
 E-commerce platform promoting rural handmade products using **PHP, MySQL, HTML, Bootstrap, and JavaScript**.
@@ -80,30 +80,18 @@ E-commerce platform promoting rural handmade products using **PHP, MySQL, HTML, 
 
 # 📊 GitHub Stats
 
-![Rajveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-technorms8058&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Raj-technorms8058&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Raj-technorms8058&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=Raj-technorms8058&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-technorms8058&layout=compact&theme=dark)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Raj-technorms8058&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-technorms8058&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 # ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-# 🔝 Top Contributed Repo
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Raj-technorms8058&limit=5&theme=dark)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Raj-technorms8058&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=Raj-technorms8058&label=Profile%20Views&color=0e75b6&style=flat)
