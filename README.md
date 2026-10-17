@@ -43,31 +43,6 @@ I enjoy understanding systems at a deeper level, solving problems with code, and
 
 ---
 
-## 🚀 What I'm Building
-
-### 🦅 PacketHawk
-
-**Deep Packet Inspection Engine**
-
-A C++ based network analysis system for processing raw PCAP traffic, inspecting protocols, extracting TLS/SNI information, and applying traffic classification and filtering rules.
-
-**Core capabilities**
-
-- Raw PCAP packet processing
-- Ethernet, IPv4, TCP & UDP parsing
-- Protocol and header analysis
-- TLS/SNI extraction
-- HTTPS application and domain identification
-- JSON based traffic rules
-- IP and domain based filtering
-- Multi-threaded packet processing pipeline
-
-**Tech Stack**
-
-`C++` `Python` `PCAP` `TCP/IP` `TLS/SNI` `Multi-threading`
-
----
-
 ## 💻 Featured Projects
 
 ### 🦅 PacketHawk
